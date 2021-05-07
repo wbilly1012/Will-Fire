@@ -1,6 +1,6 @@
 # WillFire
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.7.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.7.  Easy task management board, with drag and drop features from beginning, in progress and done.
 
 ## Development server
 
