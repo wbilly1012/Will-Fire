@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "will-fire": {
+      "hosting": {
+        "Will-Fire": [
+          "will-fire"
+        ]
+      }
+    }
+  }
+}
